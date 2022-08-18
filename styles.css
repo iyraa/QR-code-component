@@ -38,7 +38,7 @@ p {
 .container {
     background-color: white;
     border-radius: 20px;
-    width: 300px;
+    max-width: 300px;
     height: auto;
     margin: 10% auto;
     text-align: center;
